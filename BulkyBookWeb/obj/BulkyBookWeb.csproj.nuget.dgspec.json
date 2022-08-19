@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\asp-dot-net\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
+    "G:\\asp-dot-net\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
   },
   "projects": {
-    "G:\\asp-dot-net\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb.csproj": {
+    "G:\\asp-dot-net\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\asp-dot-net\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectUniqueName": "G:\\asp-dot-net\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "projectName": "BulkyBookWeb",
-        "projectPath": "G:\\asp-dot-net\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectPath": "G:\\asp-dot-net\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\asp-dot-net\\BulkyBookWeb\\BulkyBookWeb\\obj\\",
+        "outputPath": "G:\\asp-dot-net\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,28 @@
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
             }
           },
           "imports": [
