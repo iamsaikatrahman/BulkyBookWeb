@@ -1,0 +1,17 @@
+G:\asp-dot-net\BulkyBookWeb\BulkyBookWeb\BulkyBookWeb.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.deps.json
+G:\asp-dot-net\BulkyBookWeb\BulkyBookWeb\BulkyBookWeb.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.runtimeconfig.json
+G:\asp-dot-net\BulkyBookWeb\BulkyBookWeb\BulkyBookWeb.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.dll
+G:\asp-dot-net\BulkyBookWeb\BulkyBookWeb\BulkyBookWeb.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
+G:\asp-dot-net\BulkyBookWeb\BulkyBookWeb\BulkyBookWeb.DataAccess\bin\Debug\net6.0\BulkyBook.Models.dll
+G:\asp-dot-net\BulkyBookWeb\BulkyBookWeb\BulkyBookWeb.DataAccess\bin\Debug\net6.0\BulkyBook.Models.pdb
+G:\asp-dot-net\BulkyBookWeb\BulkyBookWeb\BulkyBookWeb.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+G:\asp-dot-net\BulkyBookWeb\BulkyBookWeb\BulkyBookWeb.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\asp-dot-net\BulkyBookWeb\BulkyBookWeb\BulkyBookWeb.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+G:\asp-dot-net\BulkyBookWeb\BulkyBookWeb\BulkyBookWeb.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfo.cs
+G:\asp-dot-net\BulkyBookWeb\BulkyBookWeb\BulkyBookWeb.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+G:\asp-dot-net\BulkyBookWeb\BulkyBookWeb\BulkyBookWeb.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CopyComplete
+G:\asp-dot-net\BulkyBookWeb\BulkyBookWeb\BulkyBookWeb.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.dll
+G:\asp-dot-net\BulkyBookWeb\BulkyBookWeb\BulkyBookWeb.DataAccess\obj\Debug\net6.0\refint\BulkyBook.DataAccess.dll
+G:\asp-dot-net\BulkyBookWeb\BulkyBookWeb\BulkyBookWeb.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.pdb
+G:\asp-dot-net\BulkyBookWeb\BulkyBookWeb\BulkyBookWeb.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.genruntimeconfig.cache
+G:\asp-dot-net\BulkyBookWeb\BulkyBookWeb\BulkyBookWeb.DataAccess\obj\Debug\net6.0\ref\BulkyBook.DataAccess.dll
