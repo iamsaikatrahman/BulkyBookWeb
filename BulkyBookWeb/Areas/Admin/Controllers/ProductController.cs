@@ -1,6 +1,8 @@
 ﻿using BulkyBook.DataAccess.Repository.IRepository;
 using BulkyBook.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using System.Linq;
 
 namespace BulkyBookWeb.Controllers
 {
@@ -20,18 +22,35 @@ namespace BulkyBookWeb.Controllers
             return View(objProductList);
         }
 
-        
+
 
         public IActionResult Upsert(int? id)
         {
             Product product = new();
+            IEnumerable<SelectListItem> CategoryList = _unitOfWork.Category.GetAll().Select(
+                u => new SelectListItem
+                {
+                    Text = u.Name,
+                    Value = u.Id.ToString()
+                });
+            IEnumerable<SelectListItem> CoverTypeList = _unitOfWork.CoverType.GetAll().Select(
+                u => new SelectListItem 
+                {
+                    Text = u.Name, 
+                    Value = u.Id.ToString() 
+                });
+
             if (id == null || id == 0)
             {
-                return NotFound();
+                //Create product
+                ViewBag.CategoryList = CategoryList;
+                ViewData["CoverTypeList"] = CoverTypeList;
+                //ViewBag.CoverTypeList = CoverTypeList;
+                return View(product);
             }
-           else
+            else
             {
-                return NotFound();
+                //Update Product
             }
             return View(product);
         }
@@ -40,7 +59,7 @@ namespace BulkyBookWeb.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Upsert(Product obj)
         {
-            
+
             if (ModelState.IsValid)
             {
                 _unitOfWork.Product.update(obj);
@@ -59,8 +78,8 @@ namespace BulkyBookWeb.Controllers
                 return NotFound();
             }
             //var categoryFromDb = _db.Categories.Find(id);
-            var productFromDbFist = _unitOfWork.Product.GetFirstOrDefault(c => c.Id == id);
             //var categoryFromDbSingle = _db.Categories.SingleOrDefault(c => c.Id == id);
+            var productFromDbFist = _unitOfWork.Product.GetFirstOrDefault(c => c.Id == id);
             if (productFromDbFist == null)
             {
                 return NotFound();
