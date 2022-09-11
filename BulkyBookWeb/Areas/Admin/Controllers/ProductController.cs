@@ -118,6 +118,12 @@ namespace BulkyBookWeb.Controllers
             return RedirectToAction("Index");
         }
 
-
+        #region API CALLS
+        public IActionResult GetAll()
+        {
+            var productList = _unitOfWork.Product.GetAll(includeProperties:"Category,CoverType");
+            return Json(new { data = productList });
+        }
+        #endregion
     }
 }
