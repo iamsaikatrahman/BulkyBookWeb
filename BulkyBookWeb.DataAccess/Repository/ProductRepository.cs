@@ -15,7 +15,7 @@ namespace BulkyBook.DataAccess.Repository.IRepository
             _db = db;
         }
 
-        public void update(Product obj)
+        public void Update(Product obj)
         {
            var objFromDb = _db.Products.FirstOrDefault(p => p.Id == obj.Id);
             if (objFromDb != null) 
