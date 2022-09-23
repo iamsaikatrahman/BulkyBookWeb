@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+gNTUtaKmK4qERZtsxlOvB0fOUQvt3aJU9vP4YHmUwg=",
+  "Hash": "YmZEBBHv4JfORHfczrAmdINWJqUyGDKQcpdMAyZMPiY=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -102,6 +102,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "G:\\asp-dot-net\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\images\\Products\\0bbfbd15-5f66-413e-a325-2811593c2d3c.jpg",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\asp-dot-net\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "images/Products/0bbfbd15-5f66-413e-a325-2811593c2d3c.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\0bbfbd15-5f66-413e-a325-2811593c2d3c.jpg"
+    },
+    {
       "Identity": "G:\\asp-dot-net\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\images\\Products\\4b565ad2-fb77-40d3-866f-ea1c461c316d.jpg",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
@@ -136,12 +153,12 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\623bfca7-1ef0-49d7-af37-e7fde642c3e9.jpg"
     },
     {
-      "Identity": "G:\\asp-dot-net\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\images\\Products\\843e29c1-e80c-46a1-a3cd-5858bdd1b896.jpg",
+      "Identity": "G:\\asp-dot-net\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\images\\Products\\86fa1813-280d-4e1d-8eac-f0c8c598bb3d.jpg",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
       "ContentRoot": "G:\\asp-dot-net\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
-      "RelativePath": "images/Products/843e29c1-e80c-46a1-a3cd-5858bdd1b896.jpg",
+      "RelativePath": "images/Products/86fa1813-280d-4e1d-8eac-f0c8c598bb3d.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,7 +167,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Products\\843e29c1-e80c-46a1-a3cd-5858bdd1b896.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\Products\\86fa1813-280d-4e1d-8eac-f0c8c598bb3d.jpg"
     },
     {
       "Identity": "G:\\asp-dot-net\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\images\\Products\\8869a078-31d5-461c-9c1d-10c2852b5e7c.jpg",
@@ -202,6 +219,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Products\\9e5d829b-731f-42bb-9ba6-f3b0e464e987.jpg"
+    },
+    {
+      "Identity": "G:\\asp-dot-net\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\images\\Products\\a679f941-6656-4f30-85ba-4a8cf8d86bf4.jpg",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\asp-dot-net\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "images/Products/a679f941-6656-4f30-85ba-4a8cf8d86bf4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\a679f941-6656-4f30-85ba-4a8cf8d86bf4.jpg"
     },
     {
       "Identity": "G:\\asp-dot-net\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\js\\AjaxCall\\Product.js",
